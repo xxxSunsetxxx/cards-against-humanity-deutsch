@@ -12,5 +12,3 @@
     "Das peinlichste, was mir je passiert ist: ___."
   ]
 }
-// Zufällige Karte auswählen
-let randomCard = cards[Math.floor(Math.random() * cards.length)];
